@@ -32,8 +32,8 @@ numpy-100-exercises/
 | Range | Topic | Status |
 |-------|-------|--------|
 | 1–10 | Array Creation | ✅ Done |
-| 11–20 | Indexing | ⏳ In Progress |
-| 21–30 | Math Operations | ⬜ Not Started |
+| 11–20 | Indexing | ✅ Done |
+| 21–30 | Math Operations | ⏳ In Progress |
 | 31–40 | Array Manipulation | ⬜ Not Started |
 | 41–50 | Linear Algebra | ⬜ Not Started |
 | 51–60 | Random | ⬜ Not Started |
