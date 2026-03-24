@@ -33,8 +33,8 @@ numpy-100-exercises/
 |-------|-------|--------|
 | 1–10 | Array Creation | ✅ Done |
 | 11–20 | Indexing | ✅ Done |
-| 21–30 | Math Operations | ⏳ In Progress |
-| 31–40 | Array Manipulation | ⬜ Not Started |
+| 21–30 | Math Operations | ✅ Done |
+| 31–40 | Array Manipulation | ✅ Done |
 | 41–50 | Linear Algebra | ⬜ Not Started |
 | 51–60 | Random | ⬜ Not Started |
 | 61–70 | Sorting & Searching | ⬜ Not Started |
@@ -53,10 +53,6 @@ jupyter notebook exercises/100_numpy_exercises.ipynb
 ```
 
 ---
-
-## 📚 Context
-
-This repo is part of my 2-year AI Engineering self-study plan alongside my CS degree at ESI Algeria. NumPy is the foundation before moving to Pandas, Scikit-learn, and deep learning.
 
 **Stack:** Python 3.12 · NumPy 1.26 · Jupyter
 
